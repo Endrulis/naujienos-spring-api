@@ -1,0 +1,13 @@
+.idea
+.mvn
+.settings
+target
+.classpath
+.project
+HELP.md
+mvnw
+mvnw.cmd
+src/test
+src/main/resources/static
+naujienos-spring-api.txt
+.env
